@@ -1,0 +1,296 @@
+
+.my-custom-row{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+   
+}
+
+.backgroundcustom{
+
+    background-image: url("../pictures/titlepic.jpg");
+    opacity: 0.8;
+
+}
+.contact{
+    position: sticky;
+    bottom: 0;
+background-color: #F2F2F2;
+width: 100%;
+padding-top: 5px;
+}
+
+.headrow{
+
+    height: 400px;
+    width: auto;
+
+background-color: #ECFEFA;
+}
+.secondrow{
+
+    height:auto;
+    width: auto;
+    padding: 2%;
+    font-size: 13px;
+ 
+
+background-color: #e0f1ee;
+}
+.thirdrow{
+
+    height:auto;
+    width: auto;
+text-align: right;
+background-color: white;
+padding: 2%;
+font-size: 13px;
+}
+
+
+.caption{
+
+background-color: transparent;
+
+padding: 20px;
+border-radius: 20px;
+
+}
+
+.customtitle{
+
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black;
+}
+.customlead{
+    color:#5dffd1;
+  
+}
+
+
+.table-custom{
+border-collapse: collapse;
+
+}
+
+.page-holder {
+    min-height: 100vh;
+  }
+  
+  .bg-cover {
+    background-size: cover !important;
+    
+  }
+  
+
+  @import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin:  1% 0 1% 0;
+}
+._12 {
+    font-size: 1.2em;
+}
+._14 {
+    font-size: 1.4em;
+}
+ul {
+    padding:0;
+    list-style: none;
+}
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+}
+.social-icon {
+    color: #fff;
+}
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #78C2AD;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+.fa-github {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #78C2AD;
+}
+.fa-github:hover {
+    background-color: #5a32a3;
+}
+
+
+
+
+
+.zoombox
+{
+	background-color: #333;
+	overflow: hidden;
+    color: white;
+}
+.zoombox img.zoomboximg
+{
+	width: 100%;
+	height: 240px;
+	transform: scale(1.5);
+	-webkit-transition: 2s ease-in;
+	animation-duration: 10s;
+}
+.zoombox .zoomboxDiv
+{
+	position: absolute;
+	right: 60px;
+	left: 60px;
+	top: 60px;
+	bottom: 60px;
+	display: block;
+	background-color: transparent;
+	border:1px solid #fff;
+	padding: 4%;
+	text-align: center;
+	transform: scale(0);
+	-webkit-transition: 0.5s ease-in-out;
+}
+.zoombox .zoomboxDiv img
+{
+	width: 50%;
+	height: auto;
+}
+.zoombox:hover img.zoomboximg
+{
+	opacity: .3;
+	transform: scale(1);
+}
+.zoombox:hover .zoomboxDiv
+{
+	transform: scale(1);
+}
+
+
+
+
+    /* Footer*/
+
+    .copy {
+        font-size: 12px;
+        padding: 10px;
+        border-top: 1px solid #78C2AD;
+      }
+
+
+      @media screen and (max-width: 570px) {
+
+
+
+        .backgroundcustom{
+
+            background-image: url("../pictures/titlepicsmol.jpg");
+        }
+
+
+.customtitle{
+
+    font-size: 20px;
+}
+.my-custom-row{
+    position: center;
+
+   
+}
+
+.caption{
+
+width: 150%;
+ background-color: transparent;
+
+padding: 5px;
+border-radius: 0px;
+
+
+}
+
+
+.zoombox
+{
+	background-color: #333;
+	overflow: hidden;
+    font-size: 10px;
+}
+
+
+.headrow{
+
+    height: 400px;
+    width: auto;
+
+background-color: #ECFEFA;
+}
+.secondrow{
+
+    height:auto;
+    width: auto;
+    padding: 0%;
+
+background-color: #e0f1ee;
+}
+.thirdrow{
+
+    height:auto;
+    width: auto;
+text-align: left;
+background-color: white;
+padding: 0%;
+}
+.customlead{
+    color:black;
+  
+}
+
+}
+
+
+@media screen and (min-width: 380) and (max-width: 760px) {
+
+
+#gamingpic{
+
+position: center;
+    
+}
+
+}

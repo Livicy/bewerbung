@@ -1,0 +1,45 @@
+html
+Ich kenne mich gut mit HTML aus und habe schon diverse Webseiten gemacht. Die dazugehörigen Module habe ich alle mit einer 6 abgeschlossen. (Mahara ?)
+
+CSS
+Auch CSS ist eine meiner Stärken, mit CSS habe ich meine Webseiten gestylet und ich habe die Handy Adaption einer Webseite eines Kolleges gemacht. Auch diese Module habe ich mit einer 6 abgeschlossen. (GITHUB BETRAYAL/ mahara)
+
+Bootstrap
+Ein Framework, mit dem ich schon mehrmals gearbeitet habe. Auch diese Seite habe ich mit Bootstrap erstellt. Ausserdem habe ich auch diese Module mit einer 6 abgeschlossen. (Mahara Bootstrap)
+
+Java
+In dieser Programmiersprache habe ich am meisten Erfahrung. Ich habe noch vieles offen zu lernen, doch ich kann die Grundsätze und bin ständig dran mich darin weiter zuentwickeln. Die meisten Projekte schreibe ich in Java. (Mahara)
+
+C#
+Diese Sprache habe ich in der Schule als erstes gelernt und auch da bin ich dran mich weiterzuentwickeln, beherrsche jedoch auch hier die Basics. (mahara)
+
+SQL
+Mit SQL habe ich bis jetzt Datenbanken erstellt und dies auch gekonnt. Die Module dazu habe ich mit einer 6 abgeschlossen. (Mahara)
+
+Englisch
+Meine Kentnisse in Englisch sind sehr gut, ich spreche/lese/schreibe und verstehe Englisch sehr gut. Ausserdem habe ich das Advanced gemacht. (adv. zertifikat wennis ha)
+
+Kreativität
+Ich bin ein sehr Kreativer Mensch, ich habe mich früher sehr viel mit Musik und Kunst beschäftigt, beides sehr Kreative Dinge. Ausserdem setze ich bei Webseiten auf gute und kreative Designs und habe dies bis jetzt immer versucht zu ermöglichen.(zeichnige/song?)
+
+Kommunkationsfreudig
+Ich bin sehr Extrovertiert und kann somit gut mit Menschen sprechen und mich an Menschen anpassen, deshalb denke ich, dass ich gut mit Kunden umgehen könnte in Gesprächen.
+
+
+
+
+HP siite: Eine Seite über eines meiner Lieblingsbücher. Die erste Seite die ich jeh erstellt habe.(SIITE/GITHUB)
+
+QE Siite: Eine Story-Seite, auf der wir eine Geschichte über unsere Freunde hochgeladen haben, damit Sie es lesen können. Da die Geschichte privat ist, ist die Seite hier mit Lorem Ipsum gefüllt.(SIITE/GITHUB)
+
+BTRYL: Eine Store-Webseite für Kleider, die einer mein Kollege entwickelt hat. Ich habe dafür die Handy-Adaption gemacht. (Responsive Design)(SIITE/GITHUB)
+
+Datebank: Ein Datenbank Projekt, welches wir von der Schule aus machen mussten. (Mahara/ github)
+
+probe vom Fiechter spil: Ein kleines Spiel welches wir Programmieren mussten. Grundregeln erfunden von unserem Lehrer, die Umsetzung, das Design und die Ausführung sind jedoch von mir entwickelt worden.
+
+song?
+
+Kunst? irgend es bild aaa
+
+Foto?: au irgend es bild ka
